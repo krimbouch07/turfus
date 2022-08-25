@@ -1,0 +1,68 @@
+{"reunion":
+        [{"R1":{
+        "C1": ":horse: 1  :horse:  13 :horse:  17 :horse:  19",
+        "C2":"3,2,5,7",
+        "C3":"8,12,11,10",
+        "C4":"numero",
+        "C5":"numero",
+        "C6":"numero",
+        "C7":"numero",
+        "C8":"numero",
+        "C9":"numero",
+        "C10":"numero"
+        }},
+
+        {"R2":{
+        "C1": "numero",
+        "C2":"numero",
+        "C3":"numero",
+        "C4":"numero",
+        "C5":"numero",
+        "C6":"numero",
+        "C7":"numero",
+        "C8":"numero",
+        "C9":"numero",
+        "C10":"numero"
+        }},
+
+        {"R3":{
+        "C1": "numero",
+        "C2":"numero",
+        "C3":"numero",
+        "C4":"numero",
+        "C5":"numero",
+        "C6":"numero",
+        "C7":"numero",
+        "C8":"numero",
+        "C9":"numero",
+        "C10":"numero"
+         }},
+
+        {"R4":{
+        "C1": "numero",
+        "C2":"numero",
+        "C3":"numero",
+        "C4":"numero",
+        "C5":"numero",
+        "C6":"numero",
+        "C7":"numero",
+        "C8":"numero",
+        "C9":"numero",
+        "C10":"numero"
+         }},
+
+         {"R5":{
+        "C1": "numero",
+        "C2":"numero",
+        "C3":"numero",
+        "C4":"numero",
+        "C5":"numero",
+        "C6":"numero",
+        "C7":"numero",
+        "C8":"numero",
+        "C9":"numero",
+        "C10":"numero"
+         }}
+        ]
+
+}

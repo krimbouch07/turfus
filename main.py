@@ -1,21 +1,21 @@
 import os
-
 import nextcord
 from nextcord.ext import commands
-
 import config
+from keep_alive import keep_alive
+
 
 
 def main():
     # allows privledged intents for monitoring members joining, roles editing, and role assignments
     # these need to be enabled in the developer portal as well
-    intents = nextcord.Intents.default()
+    intents = nextcord.Intents.all()
 
     # To enable guild intents:
-    # intents.guilds = True
+    intents.guilds = True
 
     # To enable member intents:
-    # intents.members = True
+    intents.members = True
 
     # Set custom status to "Listening to ?help"
     activity = nextcord.Activity(
@@ -27,6 +27,7 @@ def main():
         intents=intents,
         activity=activity,
     )
+    bot.remove_command('help')
 
     # Get the modules of all cogs whose directory structure is cogs/<module_name>/cog.py
     for folder in os.listdir("cogs"):
@@ -39,6 +40,7 @@ def main():
         print(f"{bot.user.name} has connected to Discord!")
 
     # Run Discord bot
+    keep_alive()
     bot.run(config.DISCORD_TOKEN)
 
 

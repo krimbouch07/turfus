@@ -1,0 +1,68 @@
+{"reunion":
+        [{"R1":{
+        "C1": ":horse: 6-12-11-7 :horse:",
+        "C2":":robot: 0-0-0-0 :interrobang:",
+        "C3":":robot: 0-0-0-0 :interrobang:",
+        "C4":":robot: 0-0-0-0 :interrobang:",
+        "C5":":robot: 0-0-0-0 :interrobang:",
+        "C6":":robot: 0-0-0-0 :interrobang:",
+        "C7":":robot: 0-0-0-0 :interrobang:",
+        "C8":":robot: 0-0-0-0 :interrobang:",
+        "C9":":robot: 0-0-0-0 :interrobang:",
+        "C10":":robot: 0-0-0-0 :interrobang:"
+        }},
+
+        {"R2":{
+        "C1": ":robot: 0-0-0-0 :interrobang:",
+        "C2":":robot: 0-0-0-0 :interrobang:",
+        "C3":":robot: 0-0-0-0 :interrobang:",
+        "C4":":robot: 0-0-0-0 :interrobang:",
+        "C5":":robot: 0-0-0-0 :interrobang:",
+        "C6":":robot: 0-0-0-0 :interrobang:",
+        "C7":":robot: 0-0-0-0 :interrobang:",
+        "C8":":robot: 0-0-0-0 :interrobang:",
+        "C9":":robot: 0-0-0-0 :interrobang:",
+        "C10":":robot: 0-0-0-0 :interrobang:"
+        }},
+
+        {"R3":{
+        "C1": ":robot: 0-0-0-0 :interrobang:",
+        "C2":":robot: 0-0-0-0 :interrobang:",
+        "C3":":robot: 0-0-0-0 :interrobang:",
+        "C4":":robot: 0-0-0-0 :interrobang:",
+        "C5":":robot: 0-0-0-0 :interrobang:",
+        "C6":":robot: 0-0-0-0 :interrobang:",
+        "C7":":robot: 0-0-0-0 :interrobang:",
+        "C8":":robot: 0-0-0-0 :interrobang:",
+        "C9":":robot: 0-0-0-0 :interrobang:",
+        "C10":":robot: 0-0-0-0 :interrobang:"
+         }},
+
+        {"R4":{
+        "C1":":robot: 0-0-0-0 :interrobang:",
+        "C2":":robot: 0-0-0-0 :interrobang:",
+        "C3":":robot: 0-0-0-0 :interrobang:",
+        "C4":":robot: 0-0-0-0 :interrobang:",
+        "C5":":robot: 0-0-0-0 :interrobang:",
+        "C6":":robot: 0-0-0-0 :interrobang:",
+        "C7":":robot: 0-0-0-0 :interrobang:",
+        "C8":":robot: 0-0-0-0 :interrobang:",
+        "C9":":robot: 0-0-0-0 :interrobang:",
+        "C10":":robot: 0-0-0-0 :interrobang:"
+         }},
+
+         {"R5":{
+        "C1": ":robot: 0-0-0-0 :interrobang:",
+        "C2":":robot: 0-0-0-0 :interrobang:",
+        "C3":":robot: 0-0-0-0 :interrobang:",
+        "C4":":robot: 0-0-0-0 :interrobang:",
+        "C5":":robot: 0-0-0-0 :interrobang:",
+        "C6":":robot: 0-0-0-0 :interrobang:",
+        "C7":":robot: 0-0-0-0 :interrobang:",
+        "C8":":robot: 0-0-0-0 :interrobang:",
+        "C9":":robot: 0-0-0-0 :interrobang:",
+        "C10":":robot: 0-0-0-0 :interrobang:"
+         }}
+        ]
+
+}
