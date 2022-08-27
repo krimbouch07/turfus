@@ -6,4 +6,4 @@ load_dotenv()
 
 # Discord config
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "")
-BOT_PREFIX = "%"
+BOT_PREFIX = "$"

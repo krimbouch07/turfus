@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "auxtal.nextcord-snippets",
-        "Pearoo.nextcord-helper"
+        "pearoo.nextcord-helper",
+        "GitHub.vscode-pull-request-github"
     ]
 }
