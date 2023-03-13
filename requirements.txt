@@ -1,2 +1,2 @@
-nextcord==2.0.0a10
+nextcord==2.4.1
 python-dotenv==0.20.0
